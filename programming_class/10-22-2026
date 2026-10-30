@@ -1,0 +1,3 @@
+L=["Stefan", 38, "lecturer"]
+s={"name":"Stefan","age":38, "job":"lecturer"}
+print(s["age"])
